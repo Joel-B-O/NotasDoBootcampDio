@@ -1,0 +1,4 @@
+git init - iniciar o repositório local
+git add - adicionar um file no staged
+git status - verificar mudanças no diretório
+git remote -v - verificar o repositório remoto
