@@ -2,3 +2,6 @@ git init - iniciar o repositório local
 git add - adicionar um file no staged
 git status - verificar mudanças no diretório
 git remote -v - verificar o repositório remoto
+git clone  - clonar um repositório remoto para o repositório remoto
+git push origin - enviar os commit locais  
+git pull origin - receber a versão mais recente do repositório remoto
