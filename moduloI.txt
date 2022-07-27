@@ -5,3 +5,7 @@ git remote -v - verificar o repositório remoto
 git clone  - clonar um repositório remoto para o repositório remoto
 git push origin - enviar os commit locais  
 git pull origin - receber a versão mais recente do repositório remoto
+
+links utéis:
+https://www.markdownguide.org/basic-syntax/
+https://git-scm.com/doc
